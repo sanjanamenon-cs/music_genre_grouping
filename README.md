@@ -24,9 +24,6 @@ GTZAN Dataset with 1,000 songs across 10 genres
 ## Installation
 
 \`\`\`bash
-# Clone repository
-git clone https://github.com/Vedant9892/ml_music_genre_grouping.git
-cd ml_music_genre_grouping
 
 # Install dependencies
 pip install -r requirements.txt
@@ -50,5 +47,3 @@ Visit `http://localhost:5000` after running the dashboard.
 - **Calinski-Harabasz Index:** 401.22 ⭐⭐⭐⭐⭐
 - **PCA Variance (2D):** 90.51% ⭐⭐⭐⭐⭐
 
-## Author
-**Vedant** - [GitHub Profile](https://github.com/Vedant9892)
